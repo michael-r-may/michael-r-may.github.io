@@ -2,4 +2,7 @@ theme: jekyll-theme-slate
 name: Codermay
 description: ""
 title: Codermay
+subtitle: ""
+site_header_image: 'cropped-background.jpg.jpg'
+
 
