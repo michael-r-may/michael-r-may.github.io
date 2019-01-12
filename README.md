@@ -1,6 +1,3 @@
-# CODERMAY
-#### simple things for complex times
-
 Hi, I’m Michael 👋🏻
 
 I am a mobile software engineer, music lover, coffee lover, beer lover, travelling light, commuter cyclist, fitness runner and general geek about town.
