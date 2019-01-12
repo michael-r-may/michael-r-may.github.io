@@ -4,10 +4,11 @@ description: ""
 title: Codermay
 subtitle: ""
 site_header_image: './cropped-background.jpg'
+  
   # generate social links in footer
   social_links:
-    twitter: codermay
-    github:  michael-r-may
-    rss: rss
+    	twitter: codermay
+    	github:  michael-r-may
+    	rss: rss
 	stack-overflow: //stackoverflow.com/users/593632/michael
 	linkedin: //www.linkedin.com/in/may-michael/
