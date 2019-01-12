@@ -3,6 +3,10 @@ name: Codermay
 description: ""
 title: Codermay
 subtitle: ""
-site_header_image: 'cropped-background.jpg.jpg'
-
-
+site_header_image: 'cropped-background.jpg'
+social:
+	  github: //github.com/michael-r-may
+	  twitter: //github.com/codermay
+	  instagram: //github.com/fi3ework
+	  stack-overflow: //stackoverflow.com/users/593632/michael
+	  linkedin: //www.linkedin.com/in/may-michael/
