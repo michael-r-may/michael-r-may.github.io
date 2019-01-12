@@ -41,7 +41,7 @@ I believe that it is good to get up and speak to our community (when you have so
 
 *Written:*
 * [Medium](https://medium.com/@michael_may)
-* [A Team Charter]()
+* [A Team Charter](https://medium.com/bbc-design-engineering/writing-a-team-charter-9ba3292a9775)
 * [Apple tvOS Tech Talks](https://devblog.songkick.com/apple-tvos-tech-talks-london-2016-d5a9fa9a7424), London 2016 (Songkick Blog)
 * [Getting noticed in the iTunes App Store](https://www.theguardian.com/info/developer-blog/2011/mar/15/app-store-marketing) (Guardian Blog)
 
