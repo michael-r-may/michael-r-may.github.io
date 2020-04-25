@@ -13,7 +13,8 @@ You could be for a number of reasons, so let me give you some links to find your
 * [LinkedIn](https://www.linkedin.com/in/may-michael/)
 * [Medium](https://medium.com/@michael_may)
 
-*Source Code:*
+*Code:*
+* [StackOverflow](https://stackoverflow.com/users/593632/michael)
 * [GitHub](https://github.com/michael-r-may)
 * [BitBucket](https://bitbucket.org/fourapps/)
 
