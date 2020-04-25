@@ -1,4 +1,4 @@
-![A Photo Of Me Drinking Coffee](https://github.com/michael-r-may/michael-r-may.github.io/blob/master/me.jpeg)
+![A Photo Of Me Drinking Coffee](https://github.com/michael-r-may/michael-r-may.github.io/blob/master/me.jpeg?raw=true)
 
 Hi, I’m Michael 👋🏻
 
