@@ -1,3 +1,5 @@
+![A Photo Of Me Drinking Coffee](https://github.com/michael-r-may/michael-r-may.github.io/blob/master/me.jpeg)
+
 Hi, I’m Michael 👋🏻
 
 I am a mobile software engineer, music lover, coffee lover, beer lover, travelling light, commuter cyclist, fitness runner and general geek about town.
