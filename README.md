@@ -22,13 +22,12 @@ You could be for a number of reasons, so let me give you some links to find your
 
 *// TODO London:*
 
-I am one of the hosts for [// TODO London](http://todo-london.com/), a meet-up for anyone making products for the post-PC world we live in today. We help you to do your job without telling you how to do your job. You should join us.
+I am one of the hosts for [// TODO London](http://todo-london.com/), a meet-up for stories from the world of tech that help you to be better at your job, without telling you how to do your job. You should probably join us. :-)
 
 *Apps:*
 
-Whilst I do not have any apps in active development and support, you may have one I wrote earlier. In which case, you can find out more about it.
+Whilst I do not have any apps in active development and support, you may have one I wrote earlier. In which case, you can find out more about it here.
 * [Jenkins Notifier Source](https://bitbucket.org/fourapps/jenkinsnotifier/overview) 
-* [Kanban and Scrum Avatar Maker Source](https://bitbucket.org/michael_r_may/kanban-avatar-maker)
 
 *Talks:*
 
