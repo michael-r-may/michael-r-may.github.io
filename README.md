@@ -2,13 +2,13 @@
 
 Hi, I’m Michael 👋🏻
 
-I am a mobile software engineer, music lover, coffee lover, beer lover, travelling light, commuter cyclist, fitness runner and general geek about town.
+I'm a software engineering manager, music lover, coffee lover, beer lover, travelling light, commuter cyclist, fitness runner and general geek about town.
 
-Career wise, it’s gone something like this: Un*x and C then C++ and Windows, then Java and onto J2ME before Symbian (shudder), a smattering of C# and then…iOS! Whoosh…career pivot…square brackets…several well-loved apps later…Swift…and now. It’s been fun, it still is fun, and long may that continue.
+Career wise, it’s gone something like this: Un*x and C then C++ and Windows, then Java and onto J2ME before Symbian (shudder), a smattering of C# and then…iOS! Whoosh…career pivot…square brackets…several well-loved apps later - …Swift… - and now...managing some amazing people on their journey through the tech world. It’s been fun, it still is fun, and long may that continue.
 
-I speak at things occasionally (such as UIKonf, NSSpain and KotlinConf) but you have maybe heard me speaking more recently as the co-host of a meet-up called // TODO  (if you live in London!).
+I speak at things occasionally (such as UIKonf, NSSpain and KotlinConf) but you have maybe heard me speaking more recently as the co-host of a meet-up called // TODO  (if you live in London).
 
-You could be for a number of reasons, so let me give you some links to find your way to where you probably want to be;
+You could be here for a number of reasons, so let me give you some links to find your way to where you probably want to be;
 
 *Social:*
 * [Twitter](https://www.twitter.com/codermay)
