@@ -1,13 +1,13 @@
 theme: jekyll-theme-slate
-name: Codermay
+name: Home
 description: ""
-title: Codermay
+title: Hi, I'm Michael 👋🏼
 subtitle: ""
 site_header_image: './cropped-background.jpg'
   
 # generate social links in footer
 social_links:
-twitter: codermay
+twitter: maybe_social
 github:  michael-r-may
 stack-overflow: 593632/michael
 linkedin: may-michael
