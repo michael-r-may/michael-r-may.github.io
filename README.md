@@ -11,7 +11,7 @@ I speak at things occasionally (such as UIKonf, NSSpain and KotlinConf) but you 
 You could be here for a number of reasons, so let me give you some links to find your way to where you probably want to be;
 
 *Social:*
-* [Twitter](https://www.twitter.com/codermay)
+* [Twitter](https://www.twitter.com/maybe_social)
 * [LinkedIn](https://www.linkedin.com/in/may-michael/)
 * [Medium](https://medium.com/@michael_may)
 
@@ -32,6 +32,7 @@ Whilst I do not have any apps in active development and support, you may have on
 *Talks:*
 
 I believe that it is good to get up and speak to our community (when you have something to say). It’s scary, and you don’t always get it right, but sometimes you make a small difference to someone and it’s all worth it.
+
 * [Cats And Dogs](https://www.youtube.com/watch?v=nqyFUw8c3NI), KotlinConf 2017, San Francisco
 * [Cats And Dogs Lightning Talk](https://www.youtube.com/watch?v=OyM7JBXPrGk), Code Mobile 2017, Chester
 * [Mentorship](https://vimeo.com/193556806), NSLondon 2016, London
