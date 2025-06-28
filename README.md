@@ -6,7 +6,9 @@ I'm a software engineering manager, music lover, coffee lover, beer lover, trave
 
 Career wise, it’s gone something like this: Un*x and C then C++ and Windows, then Java and onto J2ME before Symbian (shudder), a smattering of C# and then…iOS! Whoosh…career pivot…square brackets…several well-loved apps later - …Swift… - and now...managing some amazing people on their journey through the tech world. It’s been fun, it still is fun, and long may that continue.
 
-I speak at things occasionally (such as UIKonf, NSSpain and KotlinConf) but you have maybe heard me speaking more recently as the co-host of a meet-up called // TODO  (if you live in London).
+I used to speak at things occasionally (such as UIKonf, NSSpain and KotlinConf) or you have maybe heard me speaking more  as the co-host of a meet-up called // TODO  (if you lived in London).
+
+As a manager of managers I have plenty to say, but much less time to prepare talks to share it...fancy a coffee or a pint instead?
 
 You could be here for a number of reasons, so let me give you some links to find your way to where you probably want to be;
 
@@ -20,10 +22,6 @@ You could be here for a number of reasons, so let me give you some links to find
 * [StackOverflow](https://stackoverflow.com/users/593632/michael)
 * [GitHub](https://github.com/michael-r-may)
 * [BitBucket](https://bitbucket.org/fourapps/)
-
-*// TODO London:*
-
-I am one of the hosts for [// TODO London](http://todo-london.com/), a meet-up for stories from the world of tech that help you to be better at your job, without telling you how to do your job. You should probably join us. :-)
 
 *Apps:*
 
